@@ -1,1 +1,13 @@
-/* Write your CSS here! */
+body {
+    background-color: darkolivegreen;
+    width: 300px;
+    border: 5px solid plum;
+    padding: 25px;
+    margin: 8px;
+}
+  #mainHeading {
+    color:bisque;
+  }
+  .funParagraph{
+    color:burlywood;
+  }
