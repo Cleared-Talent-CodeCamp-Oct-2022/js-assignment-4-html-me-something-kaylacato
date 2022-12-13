@@ -1,13 +1,18 @@
 body {
     background-color: darkolivegreen;
-    width: 300px;
-    border: 5px solid plum;
-    padding: 25px;
     margin: 8px;
 }
+p{
+    border: 5px solid plum;
+    padding: 25px;
+    margin: 10px;
+}
   #mainHeading {
-    color:bisque;
+    color:burlywood;
   }
   .funParagraph{
     color:burlywood;
+  }
+  h3{
+    color:moccasin
   }
