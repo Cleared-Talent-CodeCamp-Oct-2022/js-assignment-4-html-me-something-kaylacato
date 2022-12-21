@@ -1,25 +1,25 @@
+article {
+    margin: 5px;
+    padding: 10px;
+}
 body {
-    background-color: darkolivegreen;
-    margin: 8px;
+  margin: 8px;
+  display: block;
+  background-color: lavender;
 }
-p{
-    border: 5px solid plum;
-    padding: 25px;
-    margin: 10px;
-    text-align: center;
+
+#mainHeading {
+  color: red;
 }
-  #mainHeading {
-    color:burlywood;
-  }
-  .funParagraph{
-    color:burlywood;
-  }
-  h3{
-    color:moccasin;
-  }
-  #personalLife{
-    color:burlywood;
-  }
-  ul{
-    color:mistyrose
-  }
+
+.funParagraph {
+  color: green;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  border: 5px solid darkorchid;
+}
